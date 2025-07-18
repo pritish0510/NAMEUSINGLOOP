@@ -24,8 +24,8 @@ Perfect for:
 
 Here’s what it looks like in the terminal:
 
-![Terminal Output](output.png)
- <!-- Replace with actual image path -->
+<img width="327" height="169" alt="image" src="https://github.com/user-attachments/assets/560d08b9-0980-473a-8023-ca6630c7d588" />
+
 
 ---
 
